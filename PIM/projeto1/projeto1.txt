@@ -1,0 +1,7 @@
+Crie uma aplicação que leia todas as imagens de um diretório e apresente essas imagens em uma sequência de slides, sendo que:
+OK.     Realizar a troca das imagens a cada 2 segundos;
+OK.     Fazer uma transição de um segundo entre as imagens usando cv2.addWeighted;
+OK.     Aplicar uma borda de 20px nas imagens;
+OK.      Aplicar no canto inferior esquerdo uma marca d’agua para todas as imagens; ***NÃO CONSEGUI DEIXAR A MARCA D'AGUA TRANSPARENTE
+OK.     Ao chegar na última imagem, voltar para a primeira;
+6.      Sair da aplicação somente quando o usuário teclar a tecla q;
